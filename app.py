@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image, ImageOps
 import numpy as np
 import random
-/mount/src/plante-ai/app.py", line 5, in <module>
+<module>/mount/src/plante-ai/app.py", line 5, in <module>
     import torch
 import torchvision.models as models
 import torchvision.transforms as transforms
