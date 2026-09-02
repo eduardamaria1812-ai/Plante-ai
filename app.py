@@ -1,7 +1,5 @@
 
-    import torch
-import torchvision.models as models
-import torchvision.transforms as transforms
+  
 
 # Configuração da página do Streamlit
 st.set_page_config(page_title="Reconhecedor de Plantas BR", page_icon="🌿", layout="centered")
